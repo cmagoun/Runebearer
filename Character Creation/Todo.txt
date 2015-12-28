@@ -1,0 +1,4 @@
+1. Move attribute and skill test info together and put it into its own brief chapter?
+2. Move examples into attribute/skill resolution chapter
+3. Redo weapons list
+4. Is there anything we can do with the armor list?
